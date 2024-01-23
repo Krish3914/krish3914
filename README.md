@@ -11,15 +11,15 @@
 📫 My Favourite Languages - Python Cpp
 
 👯 I’m looking to collaborate on Django and (Numpy Pandas) Projects
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krish3914&label=Profile%20views&color=0e75b6&style=flat" alt="AseemGupta39" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krish3914&label=Profile%20views&color=0e75b6&style=flat" alt="Krish3914" /> </p>
 
 
 📫 Connect with me 
 
 <p align="left">
 <a href="https://www.instagram.com/_krish_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_krish_al" height="30" width="40" /></a>
-<a href="linkedin.com/in/krish-agrawal-26jy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aseem-gupta1" height="30" width="40" /></a>
-<a href="https://leetcode.com/KrisH_21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aseemguptajaipur/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krish-agrawal-26jy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krish-agrawal-26jy" height="30" width="40" /></a>
+<a href="https://leetcode.com/KrisH_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/KrisH_21" height="30" width="40" /></a>
 </p>
 
 
