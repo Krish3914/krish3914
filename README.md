@@ -1,6 +1,6 @@
 <!--### Hi there 👋
 -->
-# Hi there 👋,I am Krish Agrawal
+<!--# Hi there 👋,I am Krish Agrawal
 ## Love building useful Projects and solving DSA Ques
 
 
@@ -21,11 +21,14 @@
 <a href="https://www.linkedin.com/in/krish-agrawal-26jy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krish-agrawal-26jy" height="30" width="40" /></a>
 <a href="https://leetcode.com/KrisH_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/KrisH_21" height="30" width="40" /></a>
 </p>
+-->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krish3914&show_icons=true&locale=en" alt="Krish3914" /></p> -->
-
+<!--
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/> 
+-->
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>  -->
+<!--
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="GIT" width="40" height="40"/> 
@@ -40,7 +43,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
 </p>
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krish3914&show_icons=true&hide_border=true&theme=dark&locale=en&layout=compact" alt="Most used Programming Languages" /></p>
-
+-->
 <!--
 **AseemGupta39/aseemgupta39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
