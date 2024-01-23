@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my Mern-Stack skills and implementing them through building Real-Life and innovative Projects.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack & Open-Source projects<br><br>🌱 **I’m currently learning:**  <br>Full-Stack Development && Building command on Data Structures & Algorithm in CPP.<br><br>💬 **Ask me about:**  <br>DSA, JavaScript, React, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>Creativity With a combination of accuracy is my upper edge Key.
+🔭 **I’m currently working on:**  <br>Improving my Mern-Stack skills and implementing them through building Real-Life and innovative Projects.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack & Open-Source projects<br><br>🌱 **I’m currently learning:**  <br>Full-Stack Development && Building command on Data Structures & Algorithm in CPP.<br><br>💬 **Ask me about:**  <br>DSA, JavaScript, React, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>Creativity is upper edge of myself over others.
 
 
 ## 🌐 Socials:
