@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish3914&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Krish3914&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Krish3914&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <!--![](https://github-contributor-stats.vercel.app/api?username=Krish3914&limit=5&theme=tokyonight&from=2024-01-01&to=2024-05-25)-->
 
 ---
