@@ -37,10 +37,8 @@
 <p align="center"> 
 MERN-Stack Developer and DSA Enthusiast<br />
 </p>
-<!--
-<h2>🏆My Github Profile Trophy</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1000 src="https://github-profile-trophy.vercel.app/?username=Krish3914&column=9&no-frame=true" alt="Krish3914" /></a> </p>
--->
+
+
 ## 🎧ABOUT ME💻
 
 ```cpp
