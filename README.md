@@ -35,7 +35,7 @@
 <p>
     <h1 align="center"> Hi 👋, I'm Krish </h1>
 <p align="center"> 
-MERN-Stack Developer and DSA Enthusiast<br />
+A passionate MERN-Stack Developer and DSA Enthusiast from India<br />
 </p>
 
 
@@ -45,20 +45,20 @@ MERN-Stack Developer and DSA Enthusiast<br />
 Call me = "Krish Agrawal" 🤗
 -🌱 I'm currently a Final Year CSE Student at BIT MESRA🖊️
 - 🌌 Proficiently Skilled in - Web Application Development, Data Structures & Algorithms through C++.
--⚡ Fun facts: Social Media and web Series🎬, Listening to Music🎧🎵 & Surfing the internet🌎
 -💬 Currently seeking opportunities that challenge my abilities and allow me to contribute to innovative projects.
 -👀 Let's connect and explore how I can bring value to your team!.
--
+-⚡ Fun fact: I love to travel a lot but solo traveling sounds a little boring.
 ```
 
 <h3 align="left">🔌 CONNECT:</h3>
 
 <h4 align="left">📫 How to reach me: <a href="mailto:krishagrawal3914@gmail.com">krishagrawal3914@gmail.com</a></h4>
 
-[![telegram badge](https://img.shields.io/badge/Portfolio-617D61?style=for-the-badge&logo=portfolio)](https://krishfoliohub-com.vercel.app)
-[![linkedin badge](https://img.shields.io/badge/linkedIn-0A63BC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krish-agrawal-26jy/)
+[![telegram badge](https://img.shields.io/badge/Portfolio-617D61?style=for-the-badge&logo=portfolio)](https://krishfolio.vercel.app/)
+[![linkedin badge](https://img.shields.io/badge/linkedIn-0A63BC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishagrawal-softwaredevelopment/)
 [![Twitter badge](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github)](https://github.com/Krish3914)
 [![Twitter badge](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x)](https://twitter.com/KrisH__AgrawaL)
+[![Instagram badge](https://img.shields.io/badge/Instagram-4f3039?style=for-the-badge&logo=instagram)](https://www.instagram.com/krish01agrawal/)
 <br/>
 
 <h3 align="left">🪄 Coding-Profile:</h3>
