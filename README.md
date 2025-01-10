@@ -31,7 +31,8 @@
 
 
 
-<p align="right"> <img src="https://visitcount.itsvg.in/api?id=Krish3914&label=Profile%20views&color=4c3c78&style=flat" alt="Krish3914" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Krish3914&label=Profile%20views&color=bc0ed7&style=flat" alt="Krish3914" /> </p>
+<!-- <p align="right"> <img src="https://visitcount.itsvg.in/api?id=Krish3914&label=Profile%20views&color=4c3c78&style=flat" alt="Krish3914" /> </p> -->
 <p>
     <h1 align="center"> Hi 👋, I'm Krish </h1>
 <p align="center"> 
